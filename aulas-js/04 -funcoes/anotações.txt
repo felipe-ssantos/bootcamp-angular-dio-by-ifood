@@ -1,0 +1,77 @@
+//Contém comentários para revisão.
+
+/* 
+Aqui temos a função 'sayMyName' como exemplo,
+seu parâmetro é o 'name' e a string 'your name is'
+Uma função é um bloco de código que executa uma tarefa específica quando chamado.
+
+*/
+
+/*****Função sem retorno******/
+// function sayMyName(name) {
+//     console.log("Your name is: " + name);
+// }
+// //chamando a função
+// sayMyName('Fulano');
+// sayMyName('Ciclano');
+
+// function quadrado(valor){
+//     return valor * valor;
+// }
+
+// const quadradoDeDez = quadrado(10);
+
+// console.log(quadradoDeDez);
+
+// function quadrado(valor){
+//     return valor * valor;
+// }
+
+// console.log(quadrado(10) + quadrado(10));
+
+/*
+
+function incrementarJuros(valor, percentualJuros) {
+    const valorDeAcrescimo = (percentualJuros / 100) * valor;
+    return valor + valorDeAcrescimo;
+}
+
+console.log(incrementarJuros(100, 10)); //Em cima de R$100 quero 10%
+console.log(incrementarJuros(100, 15));
+console.log(incrementarJuros(100, 20)); 
+
+*/
+
+/* 
+
+function calcularJuros() {
+
+}
+
+function main() {
+    console.log('Programa principal');
+    calculadoraJuros();
+}
+
+main();
+
+*/
+
+//Contém comentários para revisão.
+
+// function escrevaNome (nome){
+//     return "Meu nome é " + nome;
+// }
+
+// // verifica idade
+// function verificaIdade (idade){
+//     if (idade >= 18){
+//         console.log(escrevaNome('Felipe') + " e sou maior de idade.");
+//     } else{
+//         console.log(escrevaNome("Felipe") + " e sou menor de idade.");
+//     }
+// }
+
+// verificaIdade(10);
+
+//Aplicando funções no desafio anterior 'etiqueta'

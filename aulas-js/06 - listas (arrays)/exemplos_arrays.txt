@@ -1,0 +1,53 @@
+//Comentários para revisão.
+
+//Com arrays podemos de forma simples, podemos armazenar uma variável uma lista de dados.
+
+// const alunos = ['José', 'Maria', 'João'];
+// //Um lista começa a ser contada da posição zero.
+
+// alunos.push('Felipe'); //Adcionando mais um elemento na lista.
+
+// alunos[3] = 'Moisés'; //Definindo posição. Ao definir quem caso alguém perteça a posição ela se perde, pois, não tem mais ninguém referênciando ela.
+
+// const alunos = ['1', '2', '3'];
+
+// console.log(alunos);
+
+// // console.log(alunos.pop()); //Remove um elemento da lista, sem definição remove o último.
+
+// // console.log(alunos.shift()); //Ao invés de remover o último será o primeiro
+
+// alunos.splice(2, 1); // Remove o elemento na posição 3
+// /* Nesse exemplo, o método splice(2, 1) remove o elemento na posição 2 do array lista. O segundo parâmetro (1) informa que apenas um elemento deve ser removido. O método splice() retorna um novo array contendo os elementos removidos, mas no exemplo acima, o retorno não é armazenado em uma variável, pois não é necessário. */
+
+// /* Se você quiser remover vários elementos em uma única operação, basta informar a posição inicial e a quantidade de elementos a serem removidos. Por exemplo, alunos.splice(2, 3) remove os três elementos a partir da posição 2 do array alunos. */
+// console.log(alunos);
+
+
+//Descobrindo o tamanho da lista dinâmica.
+// const notas = [];
+
+// notas.push(5);
+// notas.push(7);
+// notas.push(8);
+// notas.push(2);
+// notas.push(5);
+
+// const soma = notas[0] + notas[1] + notas[2] + notas[3] + notas[4];
+
+//Usando estrutura de repetição com 'for'
+//A estrutura de repetição "for" é usada para executar um bloco de código repetidamente por um número específico de vezes, com base em uma condição inicial, uma condição final e um incremento(i).
+
+const nome = 'Fulano Perigo';//percorrendo cada letra do nome e sus respectiva posição.
+
+// for (let i = 0; i < nome.length; i++) {
+
+//     console.log(nome[i]);//nome da posição 'i'
+// }
+
+// console.log(soma / 5);
+
+for (let i = 0; i < nome.length; i++) {
+    const letra = nome[i];
+    console.log(letra);
+}

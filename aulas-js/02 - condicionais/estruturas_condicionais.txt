@@ -1,0 +1,74 @@
+//Anotações do que aprendi:
+
+/* 
+
+Na computação usamos valores booleanos que são representados pelos bits 0 e 1, 
+que correspondem aos valores false e true, respectivamente. 
+O valor booleano é um tipo de dado que só pode ter um desses dois valores possíveis, 
+e é usado para representar expressões lógicas, 
+tais como afirmações verdadeiras ou falsas. 
+
+*/
+
+/* 
+
+Os valores booleanos são amplamente utilizados na programação, 
+em diversos contextos, como por exemplo em condicionais (if/else), loops (while/for), 
+e também em operações lógicas como AND, OR e NOT. 
+Eles também são muito úteis em algoritmos de busca e ordenação, 
+em que é necessário verificar se um determinado elemento atende a determinado critério.
+
+Em muitas linguagens de programação, como JavaScript, Python e Java, 
+os valores booleanos são representados pelos tipos true e false. 
+Em outras linguagens, como C e C++, eles são representados pelos valores 0 e 1. 
+Independente da forma como são representados, 
+os valores booleanos são fundamentais na computação e na programação em geral.
+
+*/
+
+//Exemplos:
+
+const CAMISETA_USUARIO_VERDE = true;
+const CAMISETA_USUARIO2_VERDE = false;
+
+//Condicionais, verdadeiro ou falso.
+
+10 > 5 //O resultado dessa condição e verdadeiro.
+10 < 5 //O resultado dessa condição e falsa.
+
+10 >= 9 //O resultado dessa condição e verdadeiro.
+
+//Testes
+//Descrubrindo se e par ou impar por meio do resto da divisão. Caso 0 true, caso resto false.
+
+
+const NUMERO = 12;
+
+const NUMERO_PAR = (NUMERO % 2) === 0;
+
+console.log(NUMERO_PAR);
+
+/***************Entendo o simbolo = no JavaScript********************/
+
+/* 
+O símbolo = é o operador de atribuição no JavaScript e é usado para atribuir um valor a uma variável ou a uma propriedade de um objeto. Por exemplo:
+let x = 10; // atribui o valor 10 à variável x
+obj.prop = "valor"; // atribui a string "valor" à propriedade 'prop' do objeto 'obj'
+
+Já o símbolo == é um operador de igualdade abstrata e é usado para comparar dois valores em JavaScript, sem levar em conta o tipo de dados. Por exemplo:
+console.log(1 == "1"); // true, apesar de um ser número e o outro ser string
+console.log(null == undefined); // true, pois ambos são considerados "falsos"
+
+Já o símbolo === é um operador de igualdade estrita e é usado para comparar dois valores em JavaScript, levando em conta o tipo de dados. Ou seja, para que a comparação retorne true, os valores comparados devem ser do mesmo tipo e ter o mesmo valor. Por exemplo:
+
+console.log(1 === "1"); // false, pois um é número e o outro é string
+console.log(null === undefined); // false, pois são de tipos diferentes
+
+É importante entender a diferença entre == e ===, pois isso pode afetar o comportamento do seu código em situações diferentes. Em geral, recomenda-se o uso do === para evitar problemas com comparações inesperadas de tipos de dados.
+
+
+*/
+
+
+
+

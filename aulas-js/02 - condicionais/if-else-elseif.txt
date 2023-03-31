@@ -1,0 +1,27 @@
+/* Comentários para revisão. */
+
+
+const NUMERO = 12;
+
+const NUMERO_DIVISIVEL = (NUMERO % 5) === 0;
+
+//Condição especial
+
+if (NUMERO === 0) {
+    console.log('O número é inválido');
+} else if (NUMERO_DIVISIVEL) { // 'else if' é o 'se não, se'
+    console.log('Sim');
+} else { // O o atributo 'else' que represeta 'se não'
+    console.log('Não'); // O correto e que o 'else' fique sempre no final.
+}
+// if (NUMERO_DIVISIVEL) {
+//     console.log('Sim');// Se for Par 'true'
+// }
+// //Para usarmos NEGAÇÃO no comando if aplica-se a exclamação
+// if (!NUMERO_PAR) {
+//     console.log('Impar');// Se for impar 'false'
+// }
+
+
+
+

@@ -1,0 +1,21 @@
+/*
+Um objeto no JavaScript e uma coleção dinâmina de chave e valor.
+Também podemos usar funções nos objetos, chamados de metódos.
+'this' e uma palavra reservada usada em funções, sendo o contexto onde a função
+está sendo executa.
+*/
+
+//Contém comentários para revisão.
+
+/*
+Anotações sobre classes em JavaScript:
+Classes em JavaScript são uma maneira de definir objetos e suas propriedades. 
+Elas fornecem um modelo a partir do qual os objetos podem ser criados com 
+propriedades e comportamentos específicos.
+
+Nesse exemplo temos uma instância de uma pessoa.
+*/
+
+//Constructor é o que acontece quando uma objeto e instânciado
+
+
