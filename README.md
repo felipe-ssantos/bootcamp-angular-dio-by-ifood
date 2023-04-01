@@ -53,7 +53,7 @@ Abaixo estão as informações detalhadas do projeto:
 
 ### Currículo Online
 
-![Screenshot 1](./img/.png)
+![Screenshot 1](./img/cv.png)
 
 ---
 
