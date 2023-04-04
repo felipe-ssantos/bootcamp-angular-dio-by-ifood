@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+  width: 80%;
+  box-shadow: 8px 14px 30px -8px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 8px 14px 30px -8px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 8px 14px 30px -8px rgba(0, 0, 0, 0.75); /* sombra em volta da caixa */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.card__left img {
+  width: 550px;
+  height: 200px;
+  align-items: left;
+  margin-left: 5px;
+}
+
+.card__right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  padding-right: 20px;
+}
+
+.card__left {
+  display: flex;
+  align-items: center;
+  padding-left: 0;
+  padding-right: 20px;
+}
+
+.card__right > a {
+  margin: 10px 5px 5px 10px;
+  font-size: 15px;
+  padding: 5px;
+  text-decoration: none;
+  color: #000;
+}
+
+.card__right > span,
+.card__right > p {
+  margin: 2px 0 0 10px;
+  padding: 10px;
+}
+
+.card__right > span {
+  font-weight: 400;
+}
+
+.card__right > p {
+  color: #555151;
+}

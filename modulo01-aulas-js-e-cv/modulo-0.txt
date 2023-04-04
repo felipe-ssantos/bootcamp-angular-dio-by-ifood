@@ -1,0 +1,7 @@
+01 - Conheça as oportunidades da Dio;
+02 - Seja protagonista neste Bootcamp;
+03 - Boas-vindas ao Potência Tech Angular Developer - Powered by iFood;
+04 - Introdução ao Git e ao GitHub;
+05 - Como entregar seu desafio de projeto;
+06 - Criando seu primeiro repositório no GitHub para compartilhar seu progresso;
+07 - Mentoria (Live) - Aula inaugural - Potência Tech powered by iFood - Angular Developer.
