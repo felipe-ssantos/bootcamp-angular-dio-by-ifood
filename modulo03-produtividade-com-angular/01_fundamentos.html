@@ -10,31 +10,48 @@
 </head>
 
 <body>
+    <header>
+        <nav>
+          <ul class="menu">
+            <li><a href="01_fundamentos.html">Inicio</a></li>            
+          </ul>
+        </nav>
+    </header>
+
+    <div class="banner">
+        <div class="banner-content">
+          <video class="home-banner-background-video" autoplay="autoplay" loop="loop" poster="https://bnetcmsus-a.akamaihd.net/cms/template_resource/56/563GJFGT135E1497887026867.png" muted="muted">
+            <source src="https://bnetcmsus-a.akamaihd.net/cms/template_resource/mc/MCBOAD2OSZI21497561030686.mp4" type="video/mp4">
+          </video>
+          <img src="assests/banner.png" alt="Banner" class="banner-img">
+        </div>
+      </div>
+      
+      
     <div class="container">
         <!-- Notícia 1 -->
         <card-news 
             autorNoticia="N.F.S.S" 
+            photo="assests/season-28-d3.png"
             title="Diablo 3 apresenta temporada 28"
             link-url="https://github.com/felipe-ssantos/bootcamp-angular-dio-by-ifood" 
             content="A Temporada 28, Ritos de Santuário, será lançada em 24 de fevereiro, às 22h (horário de Brasília).
-        Desbloqueie poderes formidáveis no Altar dos Ritos completando a Jornada de Temporada."
+            Desbloqueie poderes formidáveis no Altar dos Ritos completando a Jornada de Temporada."
         ></card-news>
 
         <!-- Notícia 2 -->
         <card-news             
             title="Segunda notícia do site"
-            link-url="https://github.com/felipe-ssantos/bootcamp-angular-dio-by-ifood" 
-            photo="assests/season-28-d3.png"
+            link-url=""            
             content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
             Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-            when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            when an unknown printer took a galley of type and scrambled it to make a type specimen book."            
         ></card-news>
 
     </div>
 
     <!-- js -->
-    <script src="src/Components/CardNews.js" defer></script>
-    <script src="src/Components/titulo_dinamico.js" defer></script>
+    <script src="src/Components/CardNews.js" defer></script>    
 </body>
 
 </html>
