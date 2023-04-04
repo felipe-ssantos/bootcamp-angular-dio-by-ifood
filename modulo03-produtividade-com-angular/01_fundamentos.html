@@ -11,30 +11,26 @@
 
 <body>
     <div class="container">
-        <div class="card">
-            <div class="card__left">
-                <img src="assests/season-28-d3.png" alt="Darth Vader">
-            </div>
-            <div class="card__right">
-                <span>By N.F.S.S</span>
-                <a href="#" target="_blank" rel="noopener noreferrer">
-                    <h1>Diablo 3 apreseta temporada 28</h1>
-                </a>
-                <p>A Temporada 28, Ritos de Santuário, será lançada em 24 de fevereiro, às 22h (horário de Brasília).
-                    Desbloqueie poderes formidáveis no Altar dos Ritos completando a Jornada de Temporada. </p>
-            </div>
-        </div>
+        <!-- Notícia 1 -->
+        <card-news 
+            autorNoticia="N.F.S.S" 
+            title="Diablo 3 apresenta temporada 28"
+            link-url="https://github.com/felipe-ssantos/bootcamp-angular-dio-by-ifood" 
+            content="A Temporada 28, Ritos de Santuário, será lançada em 24 de fevereiro, às 22h (horário de Brasília).
+        Desbloqueie poderes formidáveis no Altar dos Ritos completando a Jornada de Temporada."
+        ></card-news>
+
+        <!-- Notícia 2 -->
+        <card-news             
+            title="Segunda notícia do site"
+            link-url="https://github.com/felipe-ssantos/bootcamp-angular-dio-by-ifood" 
+            photo="assests/season-28-d3.png"
+            content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+            when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        ></card-news>
+
     </div>
-
-    <card-news 
-        autorNoticia="N.F.S.S"
-        title="Diablo 3 apresenta temporada 28"
-        content="A Temporada 28, Ritos de Santuário, será lançada em 24 de fevereiro, às 22h (horário de Brasília).
-        Desbloqueie poderes formidáveis no Altar dos Ritos completando a Jornada de Temporada."    
-    >
-    </card-news>
-
-
 
     <!-- js -->
     <script src="src/Components/CardNews.js" defer></script>
