@@ -45,27 +45,32 @@ Abaixo estão as informações detalhadas do projeto:
 
 ## 📷 Previews/Screenshots 
 
-### Pokédex
-
-![Screenshot 1](./img/pokedex.png)
-
----
-
-### Currículo Online
-
-![Screenshot 1](./img/cv.png)
+<div align="center">
+<h3>Pokédex</3>
+<br><br>
+<img src="./img/pokedex.png" alt="Screenshot 1" style="display: block; margin: 0 auto;">
+</div>
 
 ---
 
-### Single page com Angular
-
-![Screenshot 1](./img/.png)
+<div align="center">
+<h3>Currículo Online</h3>
+  <img src="./img/cv.png" alt="Screenshot 2" style="display: block; margin: 0 auto;">
+</div>
 
 ---
 
-### Blog com Angular
+<div align="center">
+  <h3>Single page com Angular</h3>
+  <img src="#" alt="Screenshot 3" style="display: block; margin: 0 auto;">
+</div>
 
-![Screenshot 1](./img/.png)
+---
+
+<div align="center">
+  <h3>Blog com Angular</h3>
+  <img src="#" alt="Screenshot 4" style="display: block; margin: 0 auto;">
+</div>
 
 ---
 
