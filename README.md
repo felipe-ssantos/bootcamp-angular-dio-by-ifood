@@ -15,7 +15,7 @@ Abaixo estão as informações detalhadas do projeto:
 | :sparkles: Nome do curso | <b>Potência Tech Angular Developer - Powered by iFood</b>                        |
 | :label: Tecnologias | HTML, CSS, JavaScript e Angular                                   |
 | :rocket: URL do projeto: pokédex | https://felipe-ssantos.github.io/pokedex-pro-dio/                |
-| :rocket: URL do projeto: currículo online | https://felipe-ssantos.github.io/curriculo-online/          |
+| :rocket: URL do projeto: currículo online | https://curriculo-online-kohl.vercel.app/         |
 | :rocket: URL do projeto: criando um blog com Angular |           |
 | :rocket: URL do projeto: criando clone do BuzzzFeed com Angular|           |
 | 📌 Status        | Em desenvolvimento                                               |
