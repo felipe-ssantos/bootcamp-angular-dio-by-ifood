@@ -36,5 +36,5 @@ class Api {
   }
 }
 
-const api = new Api("caractes");
+const api = new Api("caracteris");
 console.log(api.name);
