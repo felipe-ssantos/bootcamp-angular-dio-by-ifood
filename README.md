@@ -60,14 +60,14 @@ Abaixo estão as informações detalhadas do projeto:
 ---
 
 <div align="center">
-  <h3>Single page com Angular</h3>
+  <h3>Blog com Angular</h3>
   <img src="#" alt="Screenshot 3" style="display: block; margin: 0 auto;">
 </div>
 
 ---
 
 <div align="center">
-  <h3>Blog com Angular</h3>
+  <h3>Clone do BuzzFeed com Angular</h3>
   <img src="#" alt="Screenshot 4" style="display: block; margin: 0 auto;">
 </div>
 
