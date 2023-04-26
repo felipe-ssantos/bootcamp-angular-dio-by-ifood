@@ -20,6 +20,16 @@ Abaixo estão as informações detalhadas do projeto:
 | :rocket: URL do projeto: criando clone do BuzzzFeed com Angular|           |
 | 📌 Status        | Em desenvolvimento                                               |
 
+<!-- Botões -->
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/felipe-ssantos/bootcamp-angular-dio-by-ifood/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/github/downloads/felipe-ssantos/bootcamp-angular-dio-by-ifood/total.svg" alt="Download">
+  </a>
+  <img src="https://gpvc.arturio.dev/felipe-ssantos" alt="Profile views">
+  <img src="https://img.shields.io/github/last-commit/felipe-ssantos/bootcamp-angular-dio-by-ifood" alt="GitHub last commit">
+</div>
+
+
 ---
 
 ### 💻 Sobre o Bootcamp
