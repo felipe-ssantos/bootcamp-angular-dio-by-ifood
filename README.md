@@ -27,7 +27,12 @@ Abaixo estão as informações detalhadas do projeto:
   </a>
   <img src="https://gpvc.arturio.dev/felipe-ssantos" alt="Profile views">
   <img src="https://img.shields.io/github/last-commit/felipe-ssantos/bootcamp-angular-dio-by-ifood" alt="GitHub last commit">
+  <img src="https://img.shields.io/github/languages/count/felipe-ssantos/bootcamp-angular-dio-by-ifood" alt="GitHub language count">
+  <img src="https://img.shields.io/github/languages/top/felipe-ssantos/bootcamp-angular-dio-by-ifood" alt="GitHub top language">
+  <img src="https://img.shields.io/github/languages/code-size/felipe-ssantos/bootcamp-angular-dio-by-ifood" alt="GitHub code size in bytes">
+  <img src="https://img.shields.io/github/repo-size/felipe-ssantos/bootcamp-angular-dio-by-ifood" alt="GitHub repo size">
 </div>
+
 
 
 ---
