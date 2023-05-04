@@ -1,0 +1,7 @@
+.container__article{
+  margin-top: 30px;
+  /* definindo small cards ao lado */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

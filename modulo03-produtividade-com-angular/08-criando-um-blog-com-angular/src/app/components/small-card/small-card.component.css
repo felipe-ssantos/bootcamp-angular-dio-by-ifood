@@ -1,0 +1,28 @@
+/* estilos do small card  */
+.container-small-cards{
+  width: 750px;
+  margin-bottom: 15px;
+}
+
+.container__small-card-content{
+   /* conteúdo em linha */
+   display: flex;
+   flex-direction: row;
+}
+
+.small-card_img > img{
+  width: 200px;
+  min-width: 200px;
+  margin-right: 20px;
+}
+
+.small-card_title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* espaçamento entre os small cards */
+.hr__small-card{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}

@@ -1,0 +1,18 @@
+<div class="container_big-card">
+  <div class="big-card_img">
+    <img src="{{ photoCover }}" alt="Imagem da Noticia Principal"
+      height="296px">
+  </div>
+
+  <div class="big-card_title">
+    <h1><a [routerLink]="['content', Id]" rel="noopener noreferrer">{{ cardTitle }}</a></h1>
+  </div>
+
+  <div class="big-card_description">
+    <p>
+      <a [routerLink]="['content', Id]" rel="noopener noreferrer">
+        {{ cardDescription }}
+      </a>
+    </p>
+  </div>
+</div>
