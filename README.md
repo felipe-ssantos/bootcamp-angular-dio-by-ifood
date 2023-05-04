@@ -75,8 +75,11 @@ Abaixo estão as informações detalhadas do projeto:
 
 <div align="center">
   <h3>Blog com Angular</h3>
-  <img src="#" alt="Screenshot 3" style="display: block; margin: 0 auto;">
+  <img src="./img/blog-angular.png" alt="Screenshot 3" style="display: block; margin: 0 auto;">
 </div>
+
+
+
 
 ---
 
