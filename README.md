@@ -16,7 +16,7 @@ Abaixo estão as informações detalhadas do projeto:
 | :label: Tecnologias | HTML, CSS, JavaScript e Angular v14.1.2                                  |
 | :rocket: URL do projeto: pokédex | https://felipe-ssantos.github.io/pokedex-pro-dio/                |
 | :rocket: URL do projeto: currículo online | https://curriculo-online-kohl.vercel.app/         |
-| :rocket: URL do projeto: criando um blog com Angular |           |
+| :rocket: URL do projeto: criando um blog com Angular | https://angular-blog-tau.vercel.app/ |
 | :rocket: URL do projeto: criando clone do BuzzzFeed com Angular|           |
 | 📌 Status        | Em desenvolvimento                                               |
 
@@ -29,8 +29,8 @@ Abaixo estão as informações detalhadas do projeto:
   <img src="https://img.shields.io/github/last-commit/felipe-ssantos/bootcamp-angular-dio-by-ifood" alt="GitHub last commit">
   <img src="https://img.shields.io/github/languages/count/felipe-ssantos/bootcamp-angular-dio-by-ifood" alt="GitHub language count">  
   <img src="https://img.shields.io/github/languages/code-size/felipe-ssantos/bootcamp-angular-dio-by-ifood" alt="GitHub code size in bytes">
-  <img src="https://img.shields.io/github/repo-size/felipe-ssantos/bootcamp-angular-dio-by-ifood" alt="GitHub repo size">
 </div>
+
 
 
 

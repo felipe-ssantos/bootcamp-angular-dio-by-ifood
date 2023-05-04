@@ -18,6 +18,7 @@ import { CompAtributosComponent } from './comp-atributos/comp-atributos.componen
     AppRoutingModule,
     FormsModule
   ],
+  exports:[],
   providers: [],
   bootstrap: [AppComponent]
 })
