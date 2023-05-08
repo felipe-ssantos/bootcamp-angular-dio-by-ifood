@@ -1,0 +1,20 @@
+
+<div class="card">
+  <div class="searchName">
+    <input type="text" placeholder="Encontre o pokémon" (input)="getPokemon($any($event.target).value)">
+  </div>
+  <div class="card__title">
+    <h3> {{ pokemon.name }} </h3>
+  </div>
+  <div class="card__body">
+    <img [src]="pokemon.sprites.front_default" height="150" alt="pokemon bulbasaur">
+  </div>
+  <div class="card__stats">
+    <span
+    class="card__stats__type"
+    *ngFor="let tipos of pokemon.types"
+    >
+      {{ tipos.type.name }}
+    </span>
+  </div>
+</div>

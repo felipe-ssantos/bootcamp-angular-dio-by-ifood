@@ -1,0 +1,86 @@
+/* card principal */
+.card{
+  border: 1px solid black;
+  width: 200px;
+  height: 300px;
+
+  display: flex;
+  flex-direction: column;
+  background-color: #232323;
+  border-radius: 10px;
+}
+
+/* barra de pesquisa */
+.searchName {
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-right: auto;
+  width: 100%;
+  height: 30px;
+  position: relative;
+}
+
+.searchName input[type="text"] {
+  padding-left: 30px;
+}
+
+.searchName:before {
+  content: "";
+  background-image: url('https://cdn-icons-png.flaticon.com/512/64/64673.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 20px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 50%;
+  left: 2px;
+  transform: translateY(-50%);
+}
+/***********************/
+
+/* Titulo */
+.card__title{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card__title > h3{
+  color: #fff;
+}
+/* ****** */
+
+/* imagem & background pokemon*/
+.card__body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #616160;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 65%;
+}
+
+/* status pokémon */
+.card__stats{
+  padding-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.card__stats__type{
+  color: #fff;
+  background-color: #DD3820;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: bold;
+
+  padding: 4px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+}
+
+
